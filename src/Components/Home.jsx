@@ -9,7 +9,7 @@ function Home() {
           {/* Profile Section */}
           <div className="profile">
             <img
-              src="./src/assets/Nishi-profile.jpg" // Replace with your profile image path
+              src="https://i.pinimg.com/736x/34/c8/0d/34c80dae8e01f1b75e1ce370e8ddaa18.jpg" // Replace with your profile image path
               alt="Nishi Profile"
               className="profile-photo"
             />
