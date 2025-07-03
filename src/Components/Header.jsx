@@ -4,7 +4,7 @@ function Header() {
   return (
     <>
       
-      <nav>
+      <nav className="nav-container active desktop-menu-toggle">
   <div className="nav-container">
     <div className="logo">Portfolio</div>
     <ul className="nav-links">
